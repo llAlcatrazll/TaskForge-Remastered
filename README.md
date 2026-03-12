@@ -56,27 +56,6 @@ Built with **WinUI 3 and .NET 8**.
 
 ---
 
-# 🗺 Roadmap
-
-### Gen 1
-Core tracking modules
-
-### Gen 2
-Productivity and automation tools
-
-### Gen 3
-System intelligence and OS-level integrations
-
-Full module documentation can be found in `/docs`.
-
----
-
-# 🚀 Development Status
-
-Currently in **early development phase**.
-
----
-
 # 📜 License
 
 MIT License
